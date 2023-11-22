@@ -15,7 +15,6 @@
     "plugin:security/recommended",
     "plugin:react-hooks/recommended",
     "plugin:storybook/recommended",
-    // "prettier-plugin-tailwindcss",
     "prettier"
   ],
   "parser": "@typescript-eslint/parser",
